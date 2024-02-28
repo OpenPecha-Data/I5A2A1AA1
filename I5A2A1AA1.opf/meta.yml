@@ -1,0 +1,82 @@
+id: I5A2A1AA1
+ocr_import_info:
+  source: bdrc
+  software: google_books
+  batch: batch_2022
+  expected_default_language: bo
+  bdrc_scan_id: W29571
+  ocr_info:
+    timestamp: 03/21/23T12:54:11
+    html: html.zip
+    txt: txt.zip
+    images: images.zip
+  op_import_options: {}
+  op_import_version: 0.11.9
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2024-02-28 14:53:43.869180+00:00
+last_modified: 2024-02-28 14:53:43.869187+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W29571
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW29571
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: བཻ་ཌཱུར་སྔོན་པོ།
+  languages:
+  - bo
+  author: སྡེ་སྲིད་སངས་རྒྱས་རྒྱ་མཚོ།
+statistics:
+  ocr_word_mean_confidence_index: 0.9476961069998533
+  ocr_word_median_confidence_index: 1.0
+bases:
+  I5522:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5522
+      total_pages: 588
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I5522.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9502797041265213
+  I5526:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5526
+      total_pages: 604
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I5526.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9460899896239435
+  I5527:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5527
+      total_pages: 502
+      volume_number: 3
+      volume_pages_bdrc_intro: 2
+    order: 3
+    base_file: I5527.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9451259554471642
+  I5528:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5528
+      total_pages: 476
+      volume_number: 4
+      volume_pages_bdrc_intro: 2
+    order: 4
+    base_file: I5528.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9493035513751761
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
